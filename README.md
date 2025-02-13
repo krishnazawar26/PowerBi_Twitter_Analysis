@@ -1,5 +1,5 @@
 # PowerBi_Twitter_Analysis
-Twitter Analysis Dashboard
+Real_Time_Twitter_Analysis_Dashboard
 
 Tasks:-
 
