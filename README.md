@@ -1,7 +1,7 @@
 # PowerBi_Twitter_Analysis
 Real_Time_Twitter_Analysis_Dashboard
 
-Dashboard created In training period is at https://github.com/krishnazawar26/Twitter_Dashboard
+PowerBi Dashboard created In training period is at https://github.com/krishnazawar26/Twitter_Dashboard
 
  Internship_Tasks:-
 
